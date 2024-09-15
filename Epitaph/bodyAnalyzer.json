@@ -1,0 +1,14 @@
+{
+    "modelUri": "ds://bt14juqd7o5ech8ld6se",
+    "completionOptions": {
+      "stream": false,
+      "temperature": 0.6,
+      "maxTokens": "2000"
+    },
+    "messages": [
+      {
+        "role": "system",
+        "text": "ТВОЯ ЦЕЛЬ: Извлеки из предоставленных тебе данных текст эпитафии. В ответе напиши только текст одной эпитафии без выделений текста."
+      }
+    ]
+}
